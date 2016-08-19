@@ -1,19 +1,4 @@
-name: Martina Wicki Photography
-favicon: null
-layout_spectrum: 0.5517677944153547
 typography_spectrum: 0.34531285683624446
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.09354686341248453
   saturation: 0.4680768826510757
   rhythmicContrast: 0.20801416342146695
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5517677944153547
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Martina Wicki Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Photography
 purpose: []
